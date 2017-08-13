@@ -351,15 +351,3 @@ form input[type="text"]:nth-child(3) {
 .social-icons > ul > li.active {
 	background-color: #363636;
 }
-footer {
-	background-color: #d0d0d0;
-}
-footer address {
-	font-size: small;
-	#border: 1px solid #000;
-	margin: 0 auto;
-    width: 25%;
-	color:  #be3600;
-	
-	#width: 15em;
-}
